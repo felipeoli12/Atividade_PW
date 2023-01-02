@@ -1,0 +1,52 @@
+
+body
+{
+  background-image: url('fundo.jpeg');
+  background-attachment: fixed;
+}
+
+
+h1,p,div
+{
+  text-align: center;
+  color: white;
+}
+h3
+{
+  text-align: center;
+  color: orange;
+}
+
+ .c5
+ {
+   font-weight: bold;
+ }
+ 
+ .c6
+ {
+   text-indent: 50px;
+ }
+ 
+ .c7
+ {
+   font-style: italic;
+ }
+ 
+ .c8
+{
+  height: 200px;
+  width: 200px;
+  background-color: orange;
+}
+   .ultimo
+ {
+   padding-top:100px;
+   padding-bottom: 100px;
+   padding-right: 100px;
+   padding-left: 100px;
+   color: orange ;
+ }
+  a:hover,a:active
+ {
+  background-color: white
+ }
